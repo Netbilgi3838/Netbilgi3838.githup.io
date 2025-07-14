@@ -1,0 +1,33 @@
+document.addEventListener("DOMContentLoaded", function () {
+    const askButton = document.getElementById('askButton');
+    const loader = document.getElementById('loader');
+    let percent = 0;
+    let interval;
+
+    askButton.addEventListener('click', function () {
+        loader.innerHTML = `<div class="star"></div><p class="loader-text">Bekleyin... (%0)</p><div class="progress-bar"><div class="progress"></div></div>`;
+        loader.style.display = 'flex';
+
+        interval = setInterval(() => {
+            percent += Math.floor(Math.random() * 5) + 1;
+            const loaderText = loader.querySelector('.loader-text');
+            const progress = loader.querySelector('.progress');
+
+            if (percent >= 100) {
+                percent = 100;
+                loaderText.textContent = `Doğruluyorum... (%100)`;
+                progress.style.width = '100%';
+                clearInterval(interval);
+                setTimeout(() => loader.style.display = 'none', 1000);
+            } else {
+                let mesaj = '';
+                if (percent < 30) mesaj = 'Bekleyin...';
+                else if (percent < 60) mesaj = 'Birkaç saniye daha...';
+                else if (percent < 80) mesaj = 'Neredeyse bitti...';
+                else mesaj = 'Doğruluyorum...';
+                loaderText.textContent = `${mesaj} (%${percent})`;
+                progress.style.width = `${percent}%`;
+            }
+        }, 500);
+    });
+});
