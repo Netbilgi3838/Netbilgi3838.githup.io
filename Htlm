@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Net Bilgi AI Ansiklopedisi</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>💥 NET BİLGİ AI ANSİKLOPEDİSİ VE ANALİZ PLATFORMU 💥</h1>
+        <p class="vision">Vizyon: İnsanların merak ettiği her konuda, yapay zeka destekli, kişiselleştirilebilir, derinlemesine, şeffaf ve interaktif bilgi sunarak Wikipedia'dan çok daha iyi bir bilgi merkezi olmak. Aynı zamanda, @NetBilgi3838 YouTube kanalımızla organik ve gerçek etkileşime dayalı bir bağ kurarak topluluğumuzu global çapta büyütmek.</p>
+    </header>
+
+    <main>
+        <section class="feature-section" id="temel-isleyis">
+            <h2>1. Temel İşleyiş ve Bilgi Akışı (Ayı Gibi Derin Analiz Modelleri)</h2>
+            <ul>
+                <li>Akıllı Soru-Cevap Sistemi: Kullanıcı doğal dilde sorusunu soracak.</li>
+                <li>Akıllı Bilgi Toplama Süreci (Temel Mod): Yapay zeka, 50+ sitede (Google dahil) kapsamlı arama yapacak.</li>
+                <li>Kullanıcı Odaklı Otomatik Öğrenme Mekanizması: Dislike ile geri bildirim alınır, otomatik derin araştırma yapılır.</li>
+                <li>Çoklu Kaynak Gezintisi: Birçok siteyi gezip en alakalı bilgiyi işler.</li>
+                <li><strong>En Net Cevap Vurgusu:</strong> En net cevap üstte sabitlenecek.</li>
+                <li>Anahtar Çıkarımlar ve Hızlı Özetleme: Can alıcı noktalar özetlenecek.</li>
+                <li><strong>50 Katı Ayı Uzunluğunda Analiz Alanı:</strong> Devasa, detaylı analiz sunulacak.</li>
+                <li>Telifsiz Görsel Entegrasyonu: Otomatik görseller eklenecek.</li>
+                <li>Şeffaf Kaynak Gösterimi: Tüm kaynaklar (URL’ler) gösterilecek.</li>
+                <li>Veri Kalıcılığı: Araştırmalar kaydedilip yüklenebilecek.</li>
+            </ul>
+        </section>
+
+        <section class="feature-section" id="kullanici-denyimi">
+            <h2>2. Kullanıcı Deneyimi ve Havalı Özelleştirmeler (Pazarlama Kozları!)</h2>
+            <ul>
+                <li>Estetik Poppins Font Kullanımı: İnce ve normal Poppins kullanılacak.</li>
+                <li>Dinamik ve Kişiselleştirilebilir Temalar: Uzay Macerası, Retro Bilim, Antik Bilgelik temaları.</li>
+                <li>Özgün ve Animasyonlu Kullanıcı ID’leri: Renkli, parlayan ID’ler.</li>
+                <li>Kişisel Bilgi Kütüphanesi: Beğenilen analizler kaydedilecek.</li>
+                <li>Etkileyici Arama Efektleri ve Sesli Geri Bildirimler: Animasyon ve ses efektleri.</li>
+                <li><strong>ÖZEL YÜKLEME ANİMASYONU:</strong> Üç köşeli yıldız dönecek.</li>
+                <li>Akıllı Yükleme Durumu ve Yüzde Çubuğu: Sözlü geri bildirim ve yüzde çubuğu.</li>
+                <li>Profil Rozetleri ve Başarılar: Aktiflik için rozetler.</li>
+                <li><strong>Soru Sor Tuşuna Özel Mavi-Mor Gradyan Kenarlık:</strong> Havalı gradyan kenarlık.</li>
+                <li>Günün Net Bilgisi Widget’ı: Şaşırtıcı bilgiler sunacak.</li>
+                <li>Teknoloji Seçimi: HTML Canvas ile efektler.</li>
+            </ul>
+        </section>
+
+        <section class="feature-section" id="premium-erisim">
+            <h2>3. Premium Erişim Modeli (Sosyal Medya Odaklı ve Gerçek Etkileşime Dayalı)</h2>
+            <ul>
+                <li>Asla Para Yok!: Ücret talep edilmeyecek.</li>
+                <li>Sınırlı Temel Erişim: Günde 20 soru ile sınırlı.</li>
+                <li>SOSYAL MEDYA İLE KAZANILAN PREMIUM ERİŞİM:
+                    <ul>
+                        <li>Aşamalı Premium Erişimi: Temel için ‘Hoş Geldin’ videosu, gelişmiş için ‘Kuantum Fiziği’ izleme.</li>
+                        <li>Özel Site İçeriği Kilidi: İlgili video izlenirse açılır.</li>
+                        <li>Gamifikasyon ve Ödül Sistemi: Videolarla puan ve rozet kazanımı.</li>
+                    </ul>
+                </li>
+                <li>Özel Premium Araştırma Modları:
+                    <ul>
+                        <li>🚀 Dünya Araştırması Modu: Tüm dünyayı tarar.</li>
+                        <li>🔬 Bilim Araştırması Modu: Akademik kaynaklara odaklanır.</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section class="feature-section" id="kanal-entegrasyonu">
+            <h2>4. Kanal Entegrasyonu ve Geri Bildirim Mekanizmaları</h2>
+            <ul>
+                <li>Yeni Video Bildirimi: Sağ alttan bildirim gelecek.</li>
+                <li>Akıllı Anket Sistemi: Kullanıcı geri bildirimi alınacak.</li>
+                <li>İlgili Konuları Keşfet Modülü: Benzer konular önerilecek.</li>
+                <li>Çok Dilli Destek: Türkçe, İngilizce başta.</li>
+            </ul>
+        </section>
+
+        <section class="feature-section" id="marka-kimligi">
+            <h2>5. Marka Kimliği ve Bağımsızlık</h2>
+            <ul>
+                <li>Yapay Zekanın Kimliği Senin Kontrolünde: Senin seçeceğin isim kullanılacak.</li>
+                <li>Tamamen Bağımsız URL/Alan Adı: netbilgi.github.io gibi.</li>
+                <li>Sıfır Alan Adı/Hosting Maliyeti: Ücretsiz GitHub Pages ile.</li>
+            </ul>
+        </section>
+
+        <button id="askButton" class="ask-button">Soru Sor</button>
+        <div id="loader"></div>
+    </main>
+
+    <footer>
+        <p>© 2025 Net Bilgi | Tüm hakları saklıdır</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
